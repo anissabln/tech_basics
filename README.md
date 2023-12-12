@@ -1,1 +1,5 @@
-# tech_basics
+# Tech Basics
+
+```
+print("hello world")
+```
